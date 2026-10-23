@@ -1,22 +1,20 @@
 // =======================================================
-// WEBSITE NAME (NICKNAME)
+// WEBSITE NAME (AN Top Up)
 // =======================================================
-var website_name = "YASIN";
+var website_name = "AN";
 
 // =======================================================
-// TELEGRAM CHANNEL LINK
+// Facebook CHANNEL LINK
 // =======================================================
-var telegram_channel_link = "telegram channel link";
+var Facebook_channel_link = "https://www.facebook.com/asefnoor.combangladesh";
 
 // =======================================================
-// TELEGRAM GROUP LINK
-// =======================================================
-var telegram_group_link = "telegram group link";
+/
+// ======================================================
 
 // =======================================================
-// YOUTUBE CHANNEL LINK
-// =======================================================
-var youtube_channel_link = "YouTube channel link";
+
+// =====================================================
 
 // =======================================================
 // NOTIFICATION TEXT
